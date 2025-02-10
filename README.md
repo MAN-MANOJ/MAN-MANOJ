@@ -14,7 +14,7 @@ I am a passionate software developer with a keen interest in open-source contrib
 - **[Project Four](https://github.com/MAN-MANOJ/-Visualizing-Sentiment-Data-Borderlands-Analysis-)**:This project analyzes and visualizes sentiment data related to "Borderlands" using a pie chart. The pie chart illustrates the proportion of different sentiments 
 - **[Project Five](https://github.com/MAN-MANOJ/Traffic-Risk-Analysis-)**This project analyzes traffic accident data to identify patterns related to road conditions, weather, and time of day. It includes data preprocessing, exploratory data analysis (EDA)
  and visualization of accident hotspots and contributing factors. The insights aim to improve road safety by understanding key risk factors.
--**[Project Six](https://github.com/MAN-MANOJ/Customer-Segmentation-Through-Clustering-)**This project aims to segment customers based on their purchasing behavior using clustering techniques. By analyzing customer data, businesses can better target their marketing efforts and enhance customer engagement.
+- **[Project Six](https://github.com/MAN-MANOJ/Customer-Segmentation-Through-Clustering-)**This project aims to segment customers based on their purchasing behavior using clustering techniques. By analyzing customer data, businesses can better target their marketing efforts and enhance customer engagement.
 ### Open Source Contributions
 - **[Open Source Project One](https://github.com/open-source-project-one)**: Contributed to improving documentation and adding new features.
 - **[Open Source Project Two](https://github.com/open-source-project-two)**: Fixed bugs and optimized performance.
