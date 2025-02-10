@@ -5,7 +5,7 @@
 I am a passionate software developer with a keen interest in open-source contributions and innovative projects. With a background in computer science and a love for learning new technologies, I am always looking for opportunities to improve my skills and share knowledge with the community.
 
 ### Skills
-- **Languages**: Python, Java
+- **Languages**: Python, SQL,Java,HTML,CSS
 
 ### Projects
 - **[Project One](https://github.com/MAN-MANOJ/project-one](https://github.com/MAN-MANOJ/-Age-Data-Analysis-Project-))**: A web application built with React and Node.js that allows users to manage tasks efficiently.
