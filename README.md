@@ -5,7 +5,7 @@
 I am a passionate software developer with a keen interest in open-source contributions and innovative projects. With a background in computer science and a love for learning new technologies, I am always looking for opportunities to improve my skills and share knowledge with the community.
 
 ### Skills
-- **Languages**: Python, SQL, Java, HTML, CSS
+- **Languages**: Python, Java, SQL, Hadoop, Spark, Hive, Sqoop
 
 ### Get in Touch
 - **LinkedIn**: [linkedin.com/in/man-manoj](https://linkedin.com/in/man-manoj)
