@@ -4,7 +4,6 @@
 ### About Me
 Hi, I’m Manoj D, a 3rd-year B.Tech AI & DS student with hands-on projects in Data Engineering.  
 I’m confident in Python, SQL, Spark, and building data pipelines.  
-Here’s my GitHub: https://github.com/MAN-MANOJ.
 
 ### Skills
 - Python
