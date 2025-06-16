@@ -2,7 +2,9 @@
 # Hi there, I'm Manoj 👋
 
 ### About Me
-I am a passionate software developer with a keen interest in open-source contributions and innovative projects. With a background in computer science and a love for learning new technologies, I am always looking for opportunities to improve my skills and share knowledge with the community.
+Hi, I’m Manoj D, a 3rd-year B.Tech AI & DS student with hands-on projects in Data Engineering.  
+I’m confident in Python, SQL, Spark, and building data pipelines.  
+Here’s my GitHub: https://github.com/MAN-MANOJ.
 
 ### Skills
 - Python
